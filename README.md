@@ -44,10 +44,6 @@ The dataset contains physical, demographic, and ticket details of the Titanic pa
 ## 🛠 Project Structure
 
 ```text
-├── data/
-│   ├── train.csv           # Training dataset with ground truth labels
-│   └── test.csv            # Test dataset for final evaluation
-├── notebooks/
-│   └── Titanic_Analysis.ipynb # Exploratory analysis & modeling notebook
-├── requirements.txt        # Project dependencies
-└── README.md               # Project documentation
+├── README.md               # Project documentation
+├── titanic.ipynb           # Exploratory analysis & modeling notebook
+└── titanicdataset.csv      # Titanic dataset file
